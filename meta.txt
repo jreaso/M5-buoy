@@ -1,0 +1,18 @@
+Station Name: M5
+Station Height: 0 M
+Latitude: 51.690, Longitude: -6.700
+
+
+date:	  -  Date and Time (utc)
+temp:  	  -  Air Temperature (C)	
+rhum:	  -  Relative Humidity (%)
+windsp:	  -  Mean Wind Speed (kt)
+dir:	  -  Mean Wind 	Direction (degrees)
+gust:	  -  Maximum Gust (kt)
+msl:	  -  Mean Sea Level Pressure (hPa)
+seatp:	  -  Sea Temperature (C)
+per:	  -  Significant Wave Period (seconds)
+wavht:	  -  Significant Wave Height (m)
+mxwav: 	  -  Individual Maximum Wave Height(m)
+wvdir:    -  Wave Direction (degrees)
+ind:      -  Indicator
